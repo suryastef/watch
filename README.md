@@ -1,4 +1,4 @@
-# Watchs, watch command alternative
+# Watchs, watch command with color perserved
 
 Usage:
 
